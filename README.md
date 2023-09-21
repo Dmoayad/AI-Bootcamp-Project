@@ -11,7 +11,7 @@ Make sure you have the data in the correct path that is put it in the notebook t
 
 ## Requirements  
 
-Libraries needed for this project
+Libraries needed for this project, Python 3.11.5 was used in this project.
 ```
 numpy
 pandas
