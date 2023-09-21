@@ -1,3 +1,12 @@
+# macOS bs
+.DS_Store
+
+# model
+*.h5
+
+# Dataset
+# TB_Chest_Radiography_Database/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
